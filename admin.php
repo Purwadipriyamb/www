@@ -3,7 +3,7 @@
 		<html>
 			<body>
 				<center>
-				Selamat Datang Pelajar
+				Selamat Datang Administator
 				<br /><br />
 				>>><a href='index.php'>Log Out</a><<<
 				</center>
